@@ -28,7 +28,7 @@ int main(){
      cout<<"ENTER PREVIOUSLY EARNED CREDITS: ";
      cin>>creditearned;
 
-     cout<<"=====CURRENT SEMESTER====="<<endl;
+     cout<<"=======CURRENT SEMESTER======="<<endl;
      cout<<"ENTER NUMBER OF COURSES: ";
      cin>>coursesNum;
 
