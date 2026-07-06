@@ -23,10 +23,10 @@ The code is organized into functions, each function has its own responsibility
 
 | Function | Purpose |
 |----------|---------|
-| `inputData()` | Prompts the user for credit hours and grades for each course, with input validation |
-| `calculateGradePoints()` | Converts each course's letter grade into its numeric grade point |
-| `calculateGPA()` | Computes total credit hours, total grade points, and the semester GPA |
-| `calculateCGPA()` | Combines current semester results with previous CGPA/credits to compute the updated CGPA |
+| `inputData()` | Ask the user to enter credit hours and grades for each course, with input validation |
+| `calculateGradePoints()` | Converts each course's letter grade into its specific grade point |
+| `calculateGPA()` | Calculate total credit hours, total grade points, and the semester GPA |
+| `calculateCGPA()` | Combines current semester results with previous CGPA/credits to calculate the updated CGPA |
 | `displayTranscript()` | Prints a formatted summary table of all courses along with the final GPA and CGPA |
 
 ## Notes (Points to Remember)
