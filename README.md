@@ -15,7 +15,7 @@ A simple command-line C++ program that calculates a student's semester GPA and u
 
 ## Grading Scale
 
-This GPA Calculator uses **FAST University's** standard Grading Scale.
+This GPA Calculator uses **FAST University's** standard Grading Scale
 
 ## Program Structure
 
